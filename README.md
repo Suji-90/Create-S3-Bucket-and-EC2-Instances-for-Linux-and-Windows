@@ -38,8 +38,6 @@ Verify the status of both instances in the EC2 dashboard.</br>
 Connect to the Linux instance using SSH.</br>
 Connect to the Windows instance using RDP.</br>
 
-### REG NUMBER : PRIYADHARSHINI P
-### NAME : 212222100039
 
 ## OUTPUT
 ## S3 BUCKET CREATION:
